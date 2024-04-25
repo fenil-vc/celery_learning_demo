@@ -1,0 +1,198 @@
+venv/*
+venv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+flask_monitoringdashboard.db
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff
+.instance/
+.webassets-cache
+
+# Scrapy stuff
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Project level files
+alembic.ini
+changes_note.txt
+migrations/
+.github/
+.dbdata/
+app.dp
+*.bak
+
+# MacOS-specific
+.DS_Store
+
+# Docker ignore
+.dockerignore
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+poc_env/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Visual Studio Code settings
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# JetBrains-specific
+.idea/
+*.iws
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/aws.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.atlassian-ide-plugin.xml
+
+# Distribution / packaging (cont'd)
+*.manifest
+*.spec
+
+# Installer logs (cont'd)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports (cont'd)
+.htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# mkdocs documentation (cont'd)
+/site
+
+# mypy (cont'd)
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# .key file (assuming it contains sensitive information)
+SECRET.key
+
+notebooks
+notebooks/*
+
+fastapi_venv
+fastapi_venv/*
+test.py
+test.ipynb
+test_response.json
+venv2/*
+venv2
+/home/fanil/Fenil_VC_Data/VCProjects/ClientProjects/Calenso_Demo/Calenso_MVP/ms_graph_api_token.json
+noteboook.ipynb
+
+/home/fanil/Fenil_VC_Data/Learning/Celery/Celery/venv
+/home/fanil/Fenil_VC_Data/Learning/Celery/Celery/venv/*
